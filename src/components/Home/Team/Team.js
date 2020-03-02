@@ -1,6 +1,8 @@
-/* eslint rule disable"*/
+
 import React from 'react';
+/*eslint-disable */
 import TeamMember from './TeamMember/TeamMember';
+/*eslint-disable */
 import { I18n } from 'react-i18next';
 import styles from './Team.scss';
 
@@ -23,4 +25,4 @@ const Team = () => (
 );
 
 export default Team;
-/* eslint rule disable"*/
+
